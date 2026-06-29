@@ -22,7 +22,7 @@ Before installing WPS Office or any similar productivity tool, review these poin
 6. Keep the software updated through a reliable update channel.
 7. Review file permission prompts before opening unknown documents.
 
-For a related Chinese resource, see these [WPS download and installation notes](https://wpszcn.com/).
+For Chinese readers, this related resource explains [WPS 下载与安装注意事项](https://wpszcn.com/) in more detail.
 
 ## Windows Installation Notes
 
