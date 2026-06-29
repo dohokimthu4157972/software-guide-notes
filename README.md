@@ -15,6 +15,7 @@ The content is designed for beginners who want to understand how to find officia
 
 ## Resource Index
 
+- [WPS Office Download Safety Checklist](./wps-office-download-checklist.html)
 - [Software Guide Notes Directory](https://scrapbox.io/software-guide-notes/Telegram_%2F_WPS_%2F_LINE_%2F_Potato_%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0%E7%9B%AE%E5%BD%95)
 - [Software Guide Resource Index PDF](https://www.dropbox.com/scl/fi/0t503q6bilggepl1sbd2f/software-guide-resource-index-2026-06-27.pdf?rlkey=xtoetyumqwuwp9oeb8kzv100g&st=rujyeujk&dl=0)
 - [Telegram registration and account safety notes](https://telegramiam.com/)
