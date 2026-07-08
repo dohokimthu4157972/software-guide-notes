@@ -21,7 +21,7 @@ The content is designed for beginners who want to understand how to find officia
 * [Telegram 注册和账号安全说明](https://telegramiam.com/)
 * [WPS 下载与安装说明](https://wpszcn.com/)
 * [LINE 电脑版设置说明](https://linehk.com/)
-* - [Telegram 中文资源导航与使用教程](telegram-chinese-resource-guide.md)
+* [Telegram 中文资源导航与使用教程](telegram-chinese-resource-guide.md)
 
 
 ## Windows Software Download Safety Checklist
